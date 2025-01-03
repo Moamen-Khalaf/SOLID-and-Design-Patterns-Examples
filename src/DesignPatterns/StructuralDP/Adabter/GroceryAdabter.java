@@ -1,4 +1,4 @@
-package DesignPatterns.StructuralDP.Adapter;
+package DesignPatterns.StructuralDP.Adabter;
 
 // Existing system providing XML data
 class XMLGroceryProvider {

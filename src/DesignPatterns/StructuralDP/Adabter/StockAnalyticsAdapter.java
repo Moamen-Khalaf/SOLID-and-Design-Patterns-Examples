@@ -1,4 +1,4 @@
-package DesignPatterns.StructuralDP.Adapter;
+package DesignPatterns.StructuralDP.Adabter;
 
 interface IXMLData {
     public void showData();
